@@ -21,6 +21,9 @@
     <ClCompile Include="LocalMapInjector.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="RemoteMapInjector.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="MappingInjection.h">

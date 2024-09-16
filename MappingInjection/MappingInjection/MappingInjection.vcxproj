@@ -129,6 +129,7 @@
   <ItemGroup>
     <ClCompile Include="LocalMapInjector.c" />
     <ClCompile Include="MappingInjection.c" />
+    <ClCompile Include="RemoteMapInjector.c" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="MappingInjection.h" />
