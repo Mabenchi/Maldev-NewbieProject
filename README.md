@@ -3,4 +3,4 @@ As someone who's diving into the field of malware development, this repository s
 
 Please note that this is for educational purposes only.
 
-Check my blog from here: [Blog](mabenchi.gitbook.io), I will be writing on my new learnings there.
+Check my blog from here: [Blog](https://mabenchi.gitbook.io/thunder), I will be writing on my new learnings there.
